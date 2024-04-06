@@ -1,9 +1,9 @@
 [shell]
 program = "C:\\Windows\\System32\\wsl.exe ~"
 
-[font.normal]
-family = "RobotoMono Nerd Font"
-style = "Regular"
+[font]
+size = 10
+normal = { "family" = "RobotoMono Nerd Font", "style" = "Regular" }
 
 [colors.primary]
 background = "#000000"
